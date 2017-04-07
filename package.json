@@ -1,0 +1,26 @@
+{
+  "name": "rocket",
+  "version": "0.0.1",
+  "description": "Rocket: a Web application framework",
+  "scripts": {
+    "test": "make test"
+  },
+ 
+  "keywords": [
+    "framework",
+    "web"
+  ],
+  "author": "Rajesh Pillai",
+ 
+  "dependencies": {
+    "underscore": "1.x"
+  },
+  "devDependencies": {
+    "mocha": "1.x",
+    "consolidate": "0.x",
+    "jade": "1.x",
+    "morgan": "*",
+    "serve-static": "*",
+    "nodemon": "1.x"
+  }
+}
